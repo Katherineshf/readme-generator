@@ -5,9 +5,9 @@
   
   ## Usage
     The system will prompt several questions to help users.
-    ![](images/Screen Shot 2022-09-18 at 9.37.01 PM.png)
+    ![](./images/Screen Shot 2022-09-18 at 9.37.01 PM.png)
     According to the user's input, there should be a Readme generated.
-   ![](images/Screen Shot 2022-09-18 at 9.48.33 PM.png)
+    ![](./images/Screen Shot 2022-09-18 at 9.48.33 PM.png)
 
 
 
