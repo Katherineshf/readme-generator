@@ -5,9 +5,9 @@
   
   ## Usage
     The system will prompt several questions to help users.
-    ![Screen Shot 2022-09-18 at 9 37 01 PM](https://user-images.githubusercontent.com/106709663/190937646-e1f97b27-7f0a-4899-9cb1-8098c3e5503c.png)
+    ![](./images/Screen Shot 2022-09-18 at 9.37.01 PM.png)
     According to the user's input, there should be a Readme generated.
-    <img width="659" alt="Screen Shot 2022-09-18 at 9 40 01 PM" src="https://user-images.githubusercontent.com/106709663/190937804-ffbd45d2-1ab2-4f85-b5e6-fe4126836360.png">
+    ![](./images/Screen Shot 2022-09-18 at 9.48.33 PM.png)
 
 
 
