@@ -5,10 +5,10 @@
   
   ## Usage
     The system will prompt several questions to help users.
-    ![](./images/Screen Shot 2022-09-18 at 9.37.01 PM.png)
-    According to the user's input, there should be a Readme generated.
-    ![](./images/Screen Shot 2022-09-18 at 9.48.33 PM.png)
+    ![usage1](https://user-images.githubusercontent.com/106709663/190942691-c9171bda-96ae-4108-8d3a-759977fcc68f.png)
 
+    According to the user's input, there should be a Readme generated.
+    <img width="659" alt="usage2" src="https://user-images.githubusercontent.com/106709663/190942701-ee2e9799-24d0-419a-825a-87936283ab56.png">
 
 
    ## Contribution
